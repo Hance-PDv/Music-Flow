@@ -1,6 +1,12 @@
-# 🎵 Music Flow
+<p align="center">
+  <img src="screenshots/app_icon.png" width="120" alt="Music Flow Icon" />
+</p>
 
-Music Flow is a lightweight, modern, and ad-free Android music player designed for local audio playback with advanced features and a clean user experience.
+<h1 align="center">🎵 Music Flow</h1>
+
+<p align="center">
+  <b>A lightweight, modern, and ad-free Android music player designed for local audio playback.</b>
+</p>
 
 ---
 
@@ -17,11 +23,11 @@ Music Flow is a lightweight, modern, and ad-free Android music player designed f
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/1MFlow.jpg" width="200" />
-  <img src="screenshots/2MFlow.jpg" width="200" />
-  <img src="screenshots/3MFlow.jpg" width="200" />
-  <img src="screenshots/4MFlow.jpg" width="200" />
-  <img src="screenshots/5MFlow.jpg" width="200" />
+  <img src="screenshots/1MFlow.jpg" width="180" />
+  <img src="screenshots/2MFlow.jpg" width="180" />
+  <img src="screenshots/3MFlow.jpg" width="180" />
+  <img src="screenshots/4MFlow.jpg" width="180" />
+  <img src="screenshots/5MFlow.jpg" width="180" />
 </p>
 
 ---
