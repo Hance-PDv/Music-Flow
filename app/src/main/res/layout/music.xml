@@ -1,0 +1,64 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linearm"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center_vertical"
+		android:orientation="horizontal"
+		android:paddingHorizontal="12dp"
+		android:paddingVertical="10dp">
+		<com.google.android.material.card.MaterialCardView
+			android:id="@+id/cardview2"
+			android:layout_width="52dp"
+			android:layout_height="52dp"
+			app:cardBackgroundColor="?attr/colorSurfaceVariant"
+			app:cardCornerRadius="12dp"
+			app:cardElevation="0dp"
+			app:cardMaxElevation="0dp"
+			app:strokeWidth="0dp"
+			app:cardPreventCornerOverlap="false">
+			<ImageView
+				android:id="@+id/img_music"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:src="@drawable/default_music_image"
+				android:scaleType="centerCrop"
+				android:focusable="false" />
+		</com.google.android.material.card.MaterialCardView>
+		<LinearLayout
+			android:id="@+id/linear2"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:layout_weight="1"
+			android:layout_marginStart="14dp">
+			<TextView
+				android:id="@+id/title"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Song Title"
+				android:textSize="15sp"
+				android:textStyle="bold"
+				android:singleLine="true"
+				android:ellipsize="end"
+				android:focusable="false" />
+			<TextView
+				android:id="@+id/art"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="3dp"
+				android:text="Artist Name"
+				android:textSize="12sp"
+				android:singleLine="true"
+				android:alpha="0.7"
+				android:ellipsize="end"
+				android:focusable="false" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

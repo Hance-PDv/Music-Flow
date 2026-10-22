@@ -1,0 +1,171 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:paddingLeft="6dp"
+		android:paddingTop="4dp"
+		android:paddingRight="6dp"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/linear2"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_margin="4dp"
+			android:gravity="center_vertical"
+			android:orientation="horizontal">
+			<com.google.android.material.card.MaterialCardView
+				android:id="@+id/favl1"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_marginRight="6dp"
+				app:cardBackgroundColor="?attr/colorSecondaryContainer"
+				android:layout_weight="1"
+				app:cardCornerRadius="16dp"
+				app:cardElevation="0dp"
+				app:strokeWidth="0dp">
+				<LinearLayout
+					android:id="@+id/linear5"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:gravity="center_vertical"
+					android:orientation="horizontal"
+					android:paddingVertical="10dp"
+					android:paddingHorizontal="12dp">
+					<ImageView
+						android:id="@+id/imageview27"
+						android:layout_width="18dp"
+						android:layout_height="18dp"
+						android:layout_marginRight="8dp"
+						android:src="@drawable/icon_mus"
+						android:scaleType="fitCenter"
+						app:tint="?attr/colorOnSecondaryContainer" />
+					<TextView
+						android:id="@+id/lblTracksCount"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:textSize="12sp"
+						android:visibility="gone" />
+					<TextView
+						android:id="@+id/txtFavCount"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:text="0 Tracks"
+						android:textSize="13sp"
+						android:textStyle="bold"
+						android:singleLine="true" />
+				</LinearLayout>
+			</com.google.android.material.card.MaterialCardView>
+			<com.google.android.material.card.MaterialCardView
+				android:id="@+id/favl3"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="6dp"
+				app:cardBackgroundColor="?attr/colorSecondaryContainer"
+				android:layout_weight="1"
+				app:cardCornerRadius="16dp"
+				app:cardElevation="0dp"
+				app:strokeWidth="0dp">
+				<LinearLayout
+					android:id="@+id/linear6"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:gravity="center_vertical"
+					android:orientation="horizontal"
+					android:paddingVertical="10dp"
+					android:paddingHorizontal="12dp">
+					<ImageView
+						android:id="@+id/imageview28"
+						android:layout_width="18dp"
+						android:layout_height="18dp"
+						android:layout_marginRight="8dp"
+						android:src="@drawable/icon_time"
+						android:scaleType="fitCenter"
+						app:tint="?attr/colorOnSecondaryContainer" />
+					<TextView
+						android:id="@+id/lblQuickStatus"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:textSize="12sp"
+						android:visibility="gone" />
+					<TextView
+						android:id="@+id/txtFavStatus"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:text="0m"
+						android:textSize="13sp"
+						android:textStyle="bold"
+						android:singleLine="true" />
+				</LinearLayout>
+			</com.google.android.material.card.MaterialCardView>
+		</LinearLayout>
+		<LinearLayout
+			android:id="@+id/favl"
+			android:layout_width="0dp"
+			android:layout_height="0dp"
+			android:orientation="horizontal"
+			android:visibility="gone">
+			<ImageView
+				android:id="@+id/fav"
+				android:layout_width="0dp"
+				android:layout_height="0dp"
+				android:src="@drawable/icon_fav1"
+				android:scaleType="center" />
+			<TextView
+				android:id="@+id/text"
+				android:layout_width="0dp"
+				android:layout_height="0dp"
+				android:textSize="12sp" />
+		</LinearLayout>
+		<RelativeLayout
+			android:id="@+id/relativelayout1"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_marginTop="4dp">
+			<LinearLayout
+				android:id="@+id/NoMusicFoundLayout"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="vertical">
+				<ImageView
+					android:id="@+id/NoMusicFoundLayoutIcon"
+					android:layout_width="110dp"
+					android:layout_height="110dp"
+					android:layout_marginBottom="12dp"
+					android:src="@drawable/icon_music"
+					android:scaleType="fitCenter"
+					app:tint="?attr/colorOnSurfaceVariant" />
+				<TextView
+					android:id="@+id/NoMusicFoundLayoutTitle"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="4dp"
+					android:text="No favorite music"
+					android:textSize="18sp"
+					android:textStyle="bold" />
+				<TextView
+					android:id="@+id/NoMusicFoundLayoutDesc"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:paddingLeft="16dp"
+					android:paddingRight="16dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="You can add in using the fav button"
+					android:textSize="14sp" />
+			</LinearLayout>
+			<androidx.recyclerview.widget.RecyclerView
+				android:id="@+id/recyclerview1"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				tools:listitem="@layout/music" />
+		</RelativeLayout>
+	</LinearLayout>
+</LinearLayout>
