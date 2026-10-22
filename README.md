@@ -15,7 +15,14 @@ Music Flow is a lightweight, modern, and ad-free Android music player designed f
 ---
 
 ## 📱 Screenshots
-*(Add your screenshots here)*
+
+<p align="center">
+  <img src="screenshots/1MFlow.jpg" width="200" />
+  <img src="screenshots/2MFlow.jpg" width="200" />
+  <img src="screenshots/3MFlow.jpg" width="200" />
+  <img src="screenshots/4MFlow.jpg" width="200" />
+  <img src="screenshots/5MFlow.jpg" width="200" />
+</p>
 
 ---
 
