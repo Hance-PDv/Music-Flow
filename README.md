@@ -24,19 +24,42 @@ Play your way with MFlow! 🎶
 
 ## 📱 Screenshots
 
-<div align="center">
-
-| <img src="screenshots/1MFlow.png" width="180" /> | <img src="screenshots/2MFlow.png" width="180" /> | <img src="screenshots/3MFlow.png" width="180" /> |
-| :---: | :---: | :---: |
-| **Welcome** | **Player** | **Lyrics** |
-
-<br />
-
-| <img src="screenshots/4MFlow.png" width="180" /> | <img src="screenshots/5MFlow.png" width="180" /> | <img src="screenshots/6MFlow.png" width="180" /> |
-| :---: | :---: | :---: |
-| **Home** | **Favorites** | **Library** |
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/1MFlow.png" width="100%" />
+      <br />
+      <b>Welcome</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/2MFlow.png" width="100%" />
+      <br />
+      <b>Player</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/3MFlow.png" width="100%" />
+      <br />
+      <b>Lyrics</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/4MFlow.png" width="100%" />
+      <br />
+      <b>Home</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/5MFlow.png" width="100%" />
+      <br />
+      <b>Favorites</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/6MFlow.png" width="100%" />
+      <br />
+      <b>Library</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
