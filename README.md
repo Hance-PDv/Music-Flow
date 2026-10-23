@@ -25,12 +25,12 @@ Play your way with MFlow! 🎶
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/1MFlow.jpg" width="160" />
-  <img src="screenshots/2MFlow.jpg" width="160" />
-  <img src="screenshots/3MFlow.jpg" width="160" />
-  <img src="screenshots/4MFlow.jpg" width="160" />
-  <img src="screenshots/5MFlow.jpg" width="160" />
-  <img src="screenshots/6MFlow.jpg" width="160" />
+  <img src="screenshots/1MFlow.png" width="160" />
+  <img src="screenshots/2MFlow.png" width="160" />
+  <img src="screenshots/3MFlow.png" width="160" />
+  <img src="screenshots/4MFlow.png" width="160" />
+  <img src="screenshots/5MFlow.png" width="160" />
+  <img src="screenshots/6MFlow.png" width="160" />
 </p>
 
 ---
