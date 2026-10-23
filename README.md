@@ -8,12 +8,6 @@
   <b>Welcome to MFlow, your ultimate offline music companion designed with a modern Material 3 aesthetic and dark-mode elegance. Take full control of your local audio library with a smooth, ad-free, and privacy-focused experience built for true music lovers.</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT" />
-  <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform Android" />
-  <img src="https://img.shields.io/badge/Architecture-100%25%20Offline-orange.svg" alt="Offline Architecture" />
-</p>
-
 ---
 
 ## Key Features
