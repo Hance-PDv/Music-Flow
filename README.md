@@ -28,13 +28,13 @@ Play your way with MFlow! 🎶
 
 | <img src="screenshots/1MFlow.png" width="180" /> | <img src="screenshots/2MFlow.png" width="180" /> | <img src="screenshots/3MFlow.png" width="180" /> |
 | :---: | :---: | :---: |
-| **Player** | **Library** | **Lyrics** |
+| **Welcome** | **Player** | **Lyrics** |
 
 <br />
 
 | <img src="screenshots/4MFlow.png" width="180" /> | <img src="screenshots/5MFlow.png" width="180" /> | <img src="screenshots/6MFlow.png" width="180" /> |
 | :---: | :---: | :---: |
-| **Playlists** | **Statistics** | **Settings** |
+| **Home** | **Favorites** | **Library** |
 
 </div>
 
