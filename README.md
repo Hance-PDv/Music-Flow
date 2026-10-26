@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/icon_app.png" width="120" alt="Music Flow Icon" />
+  <img src="screenshots/app_icon.png" width="120" alt="Music Flow Icon" />
 </p>
 
 <h1 align="center">MFlow</h1>
