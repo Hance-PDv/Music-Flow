@@ -1,74 +1,66 @@
 <p align="center">
-  <img src="screenshots/app_icon.png" width="120" alt="Music Flow Icon" />
+  <img src="screenshots/app_icon.png" width="120" alt="MFlow Icon" />
 </p>
 
 <h1 align="center">MFlow</h1>
 
 <p align="center">
-  <b>Welcome to MFlow, your ultimate offline music companion designed with a modern Material 3 aesthetic and dark-mode elegance. Take full control of your local audio library with a smooth, ad-free, and privacy-focused experience built for true music lovers.</b>
+  <b>MFlow is a modern, lightweight, and completely ad-free offline music player crafted with Material 3 design and dark-first elegance. Seamlessly control, organize, and enjoy your local audio library with synchronized lyrics, detailed listening statistics, and a privacy-first experience built for audio purists.</b>
 </p>
 
 ---
 
 ## Key Features
 
-### Media & Library
-* **Seamless Local Playback**: Instantly scan, organize, and play all your device audio files with crisp quality.
-* **Favorites & Custom Playlists**: Easily manage your favorite tracks and build custom playlists tailored to your vibe.
+### Audio & Library Management
+* **Offline Local Playback**: Lightning-fast scanning and smooth playback for all local audio files.
+* **Smart Playlists**: Effortlessly create custom playlists and curate your favorite tracks in one place.
 
-### Smart Utilities & Insights
-* **Listening Statistics**: Track your listening habits, most played tracks, and overall stats.
-* **Smart Features**: Includes real-time synced lyrics display, a mini-player for quick control, and a custom sleep timer.
+### Advanced Utilities
+* **Real-time Synced Lyrics**: Experience synchronized lyrics display with precise scrolling and elegant animations.
+* **Listening Statistics**: Track your musical habits, total play time, top tracks, and daily listening trends.
+* **Custom Sleep Timer**: Set a dedicated sleep timer with flexible controls to pause playback automatically.
 
-### Interface & Security
-* **Dynamic Material 3 UI**: Enjoy a gorgeous, fluid interface with dynamic theming, smooth animations, and a polished dark-first design.
-* **Privacy First**: 100% offline-first architecture ensuring your data and listening habits remain completely private on your device.
+### UI & Privacy
+* **Material 3 & Glassmorphism**: Beautiful dark-themed interface with smooth transitions, glassmorphic UI elements, and a floating mini-player.
+* **100% Private**: Fully offline architecture ensuring your listening data never leaves your device.
 
-*Play your way with MFlow!*
+*Enjoy music without interruptions with MFlow!*
 
 ---
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="screenshots/1MFlow.png" width="100%" />
-      <br />
-      <b>Welcome</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/2MFlow.png" width="100%" />
-      <br />
-      <b>Player</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/3MFlow.png" width="100%" />
-      <br />
-      <b>Lyrics</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="screenshots/4MFlow.png" width="100%" />
-      <br />
-      <b>Home</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/5MFlow.png" width="100%" />
-      <br />
-      <b>Favorites</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="screenshots/6MFlow.png" width="100%" />
-      <br />
-      <b>Library</b>
-    </td>
-  </tr>
-</table>
-
----
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="screenshots/1.png" width="100%" />
+        <br />
+        <b>Player</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="screenshots/2.png" width="100%" />
+        <br />
+        <b>Lyrics</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="screenshots/3.png" width="100%" />
+        <br />
+        <b>Favorites</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="screenshots/4.png" width="100%" />
+        <br />
+        <b>Library</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="screenshots/5.png" width="100%" />
+        <br />
+        <b>Stats</b>
+      </td>
+    </tr>
+  </table>
+</div>
