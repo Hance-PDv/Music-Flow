@@ -5,18 +5,19 @@
 <h1 align="center">MFlow</h1>
 
 <p align="center">
-  <b>A sleek music player featuring a modern Liquid Glass UI. Enjoy an ad-free, fluid experience with synced lyrics and listening insights.</b>
+  <b>Experience music through a modern Liquid Glass aesthetic. MFlow delivers a fluid, ad-free environment designed for pure visual elegance and seamless interaction.</b>
 </p>
 
 ---
 
 ## Features
 
-* **Liquid Glass Design**: Translucent dark UI with fluid animations and a mini-player.
-* **Smart Library**: Fast music browsing, instant search, and custom playlists.
-* **Synced Lyrics**: Real-time synchronized lyrics with animated scrolling.
-* **Listening Stats**: Track your total play time, daily averages, and top tracks.
-* **Sleep Timer**: Customizable auto-stop timer with quick adjust options.
+* **High-Fidelity Audio**: Crisp, uncompromised sound playback quality.
+* **Synced Lyrics**: Real-time synchronized lyrics display.
+* **Sleep Timer**: Customizable timer with quick auto-stop controls.
+* **Favorites**: One-tap access to your most-loved tracks.
+* **Playlists**: Effortless creation and management of custom collections.
+* **Listening Stats**: Track total play time, top tracks, and habits.
 
 ---
 
