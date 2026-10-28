@@ -5,27 +5,18 @@
 <h1 align="center">MFlow</h1>
 
 <p align="center">
-  <b>MFlow is a modern, beautifully crafted music player designed with a premium Material 3 glassmorphic UI and dark-first elegance. Enjoy a fluid, ad-free listening experience tailored for visual perfection and seamless performance.</b>
+  <b>A sleek music player featuring a modern Liquid Glass UI. Enjoy an ad-free, fluid experience with synced lyrics and listening insights.</b>
 </p>
 
 ---
 
 ## Features
 
-### 🎨 Visual & Design
-* **Material 3 UI**: Modern dark theme with fluid animations and responsive glassmorphic elements.
-* **Sleek Mini-Player**: Quick playback controls accessible anywhere in the app with smooth transitions.
-
-### 🎵 Library & Playlists
-* **Smart Organization**: Browse, manage, and search your entire music library effortlessly.
-* **Custom Playlists**: Create personalized collections and curate favorite tracks with one tap.
-
-### 📜 Lyrics & Sleep Timer
-* **Synced Lyrics**: Real-time synchronized lyrics display with smooth scrolling animations.
-* **Sleep Timer**: Built-in sleep timer with flexible controls to pause audio automatically.
-
-### 📊 Listening Insights
-* **Listening Stats**: Track total play time, top played tracks, and daily listening trends.
+* **Liquid Glass Design**: Translucent dark UI with fluid animations and a mini-player.
+* **Smart Library**: Fast music browsing, instant search, and custom playlists.
+* **Synced Lyrics**: Real-time synchronized lyrics with animated scrolling.
+* **Listening Stats**: Track your total play time, daily averages, and top tracks.
+* **Sleep Timer**: Customizable auto-stop timer with quick adjust options.
 
 ---
 
