@@ -31,34 +31,34 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/1MFlow.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/11MFlow.png" width="100%" />
         <br />
         <b>Home</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/2MFlow.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/12MFlow.png" width="100%" />
         <br />
         <b>Player</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/3MFlow.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/13MFlow.png" width="100%" />
         <br />
         <b>Lyrics</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/4MFlow.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/14MFlow.png" width="100%" />
         <br />
         <b>Library</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/5MFlow.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/15MFlow.png" width="100%" />
         <br />
         <b>Favorite</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/6MFlow.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/16MFlow.png" width="100%" />
         <br />
         <b>Stats</b>
       </td>
