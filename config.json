@@ -1,8 +1,7 @@
 {
-  "is_maintenance": false,
-  "min_version_code": 37,
   "min_version_name": "3.7",
-  "title": "App Update",
-  "message": "MFlow is currently undergoing maintenance or your app version is outdated. Please update to version 3.7 or higher to continue.",
+  "is_force_update": false,
+  "title": "New Update Available",
+  "message": "MFlow v3.7 is now available! Update to get the latest Liquid Glass UI enhancements, performance improvements, and bug fixes.",
   "update_url": "https://hance-pdv.github.io/mflow-web/"
 }
