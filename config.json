@@ -1,6 +1,6 @@
 {
   "min_version_name": "3.8",
-  "is_force_update": false,
+  "is_force_update": true,
   "title": "New Update",
   "message": "MFlow v3.8 is here! Enjoy a newly redesigned Playlists interface and performance improvements. note: Synced lyrics may temporarily fail to load due to an issue on the lyrics server—they will start working automatically once their service is restored.",
   "update_url": "https://hance-pdv.github.io/mflow-web/"
