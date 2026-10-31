@@ -38,8 +38,4 @@ This policy may be updated to reflect changes in MFlow's features or privacy pra
 
 8. Developer & Contact
 
-For privacy-related questions or inquiries, please contact:
-
-- Application: MFlow
-- Developer: Hance
-- Email: hance26x@gmail.com
+For privacy-related questions or 
