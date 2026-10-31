@@ -1,6 +1,6 @@
 {
   "is_maintenance": false,
-  "min_version_code": 35,
+  "min_version_code": 3,
   "min_version_name": "3.5",
   "title": "App Maintenance",
   "message": "MFlow is currently undergoing maintenance or your app version is outdated. Please update to version 3.5 or higher to continue.",
