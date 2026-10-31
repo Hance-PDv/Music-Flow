@@ -1,7 +1,7 @@
 {
   "is_maintenance": true,
   "min_version_code": 37,
-  "min_version_name": "3.7",
+  "min_version_name": "3.6",
   "title": "App Maintenance",
   "message": "MFlow is currently undergoing maintenance or your app version is outdated. Please update to version 3.7 or higher to continue.",
   "update_url": "https://hance-pdv.github.io/mflow-web/"
