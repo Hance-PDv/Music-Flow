@@ -1,0 +1,45 @@
+Privacy Policy — MFlow
+
+Effective Date: October 31, 2026
+
+MFlow is a local music player for Android, developed by Hance. This policy describes how the application handles information, device permissions, and internet connectivity.
+
+1. Information & Permissions
+
+MFlow does not collect or store personally identifiable information. No account registration or personal details are required.
+
+The application requests access to your device's audio files solely to scan, organize, display, and play your local music library.
+
+2. Internet Connectivity
+
+MFlow uses an internet connection exclusively to retrieve synced lyrics for supported tracks.
+
+Internet connectivity is not used to transmit error reports, diagnostic data, usage analytics, or personal information. Your music files and library are never uploaded to external servers.
+
+3. Local Data Storage
+
+Your playlists, favorites, listening history, playback statistics, settings, and preferences are processed and stored locally on your device. This information remains under your control and is not synchronized with external servers.
+
+4. Third-Party Services & Data Sharing
+
+MFlow does not sell, rent, or share personal information with third parties. The application does not include advertising networks or third-party tracking services.
+
+5. Data Retention & Control
+
+Application data is retained locally until you clear MFlow's data or uninstall the application. These actions may permanently remove locally stored playlists, settings, and preferences.
+
+6. Children's Privacy
+
+MFlow does not knowingly collect personal information from children or other users.
+
+7. Policy Updates
+
+This policy may be updated to reflect changes in MFlow's features or privacy practices. Any revisions will be published with an updated effective date.
+
+8. Developer & Contact
+
+For privacy-related questions or inquiries, please contact:
+
+- Application: MFlow
+- Developer: Hance
+- Email: hance16x@gmail.com
