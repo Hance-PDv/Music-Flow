@@ -1,7 +1,7 @@
 {
-  "min_version_name": "4.1",
-  "is_force_update": false,
-  "title": "New Update",
-  "message": "MFlow v4.1 is here! Introducing the new Artist page, making it easier to explore your music by artist. Also, fixed an issue synced lyrics loading.\n\nNote: Synced lyrics may occasionally fail to load due to network or server issues.",
-  "update_url": "https://hance-pdv.github.io/mflow-web/"
+"min_version_name": "4.1.1",
+"is_force_update": false,
+"title": "Small Update",
+"message": "New section has been added to the Home page, allowing you to explore songs directly.",
+"update_url": "https://hance-pdv.github.io/mflow-web/"
 }
