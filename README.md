@@ -31,7 +31,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/11MFlow.png" width="100%" />
+        <img src="https://raw.githubusercontent.com/Hance-PDv/Music-Flow/refs/heads/main/screenshots/10MFlow.png" width="100%" />
         <br />
         <b>Home</b>
       </td>
