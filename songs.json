@@ -1,0 +1,37 @@
+{
+"version": 1,
+"updated_at": "2026-11-06",
+"songs": [
+{
+"id": "song_001",
+"title": "Beriz",
+"artist": "Flenn",
+"audio": "https://pub-e8d85720182347ef86bd926750c6df07.r2.dev/audio/Flenn%20-%20Beriz%28MP3_320K%29.mp3"
+},
+{
+"id": "song_002",
+"title": "Nice To Meet Ya",
+"artist": "Wes Nelson",
+"featuring": "Yxng Bane",
+"audio": "https://pub-e8d85720182347ef86bd926750c6df07.r2.dev/audio/Wes%20Nelson%20-%20Nice%20To%20Meet%20Ya%20ft.%20Yxng%20Bane%20%28Official%20Video%29%28MP3_320K%29.mp3"
+},
+{
+"id": "song_003",
+"title": "Esse Não E Meu Fim (Lofi)",
+"artist": "Solo Crack",
+"audio": "https://pub-e8d85720182347ef86bd926750c6df07.r2.dev/audio/Solo%20Crack%20X%20Esse%20N%C3%A3o%20E%20Meu%20Fim%20%28Lofi%29%28MP3_320K%29.mp3"
+},
+{
+"id": "song_004",
+"title": "Safari",
+"artist": "Serena",
+"audio": "https://pub-e8d85720182347ef86bd926750c6df07.r2.dev/audio/Serena%20-%20Safari%20_%20Official%20Video%28MP3_320K%29.mp3"
+},
+{
+"id": "song_005",
+"title": "ZOMBIE",
+"artist": "LAZARO",
+"audio": "https://pub-e8d85720182347ef86bd926750c6df07.r2.dev/audio/LAZARO%20-%20ZOMBIE%20%28Official%20Music%20Video%29%28MP3_320K%29.mp3"
+}
+]
+}
