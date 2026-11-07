@@ -1,5 +1,6 @@
 import os
 import json
+import re
 from datetime import datetime
 
 BASE_URL = "https://raw.githubusercontent.com/Hance-PDv/Music-Flow/main/Audio/"
@@ -10,7 +11,8 @@ songs = []
 if os.path.exists(AUDIO_DIR):
     for i, filename in enumerate(sorted(os.listdir(AUDIO_DIR))):
         if filename.lower().endswith(".mp3"):
-            clean_name = filename.replace("(MP3_320K)", "").replace(".mp3", "").strip()
+            name_without_ext = os.path.splitext(filename)[0]
+            clean_name = re.sub(r'\s*\(.*?\)', '', name_without_ext).strip()
             
             if " - " in clean_name:
                 parts = clean_name.split(" - ", 1)
