@@ -1,0 +1,33 @@
+name: Generate Songs JSON
+
+on:
+  push:
+    paths:
+      - 'Audio/**'
+
+jobs:
+  build:
+  
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Run script to generate json
+      run: python generate_json.py
+
+    - name: Commit and push changes if songs.json changed
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add songs.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update songs.json [skip ci]" && git push)
